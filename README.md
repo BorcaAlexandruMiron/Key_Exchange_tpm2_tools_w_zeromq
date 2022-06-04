@@ -12,5 +12,7 @@ pip install pyzmq
 - Install IBM's TPM 2.0 TSS (for virtual TPM)
 ```diff
 !For a more detailed explanation on installing and setting the Virtual TPM the following tutorial can be taken:
+```
+```
 https://github.com/terilenard/dias-logging/wiki/Setup-Virtual-TPM
 ```
