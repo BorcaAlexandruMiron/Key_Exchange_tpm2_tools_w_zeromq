@@ -13,7 +13,7 @@ pip install pyzmq
 ```diff
 !For a more detailed explanation on installing and setting the Virtual TPM the following tutorial can be taken:
 ```
-[https://github.com/terilenard/dias-logging/wiki/Setup-Virtual-TPM
+https://github.com/terilenard/dias-logging/wiki/Setup-Virtual-TPM
 
 # Hardware required:
 - 2 devices on the same network 
