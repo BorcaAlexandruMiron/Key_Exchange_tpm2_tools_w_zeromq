@@ -8,6 +8,7 @@ Simple POC of RSA encrypt/decrypt on 2 separate devices using tpm2-tools and Zer
 ```
 pip install pyzmq
 ```
+- openssl
 # Optionally:
 - Install IBM's TPM 2.0 TSS (for virtual TPM)
 ```diff
