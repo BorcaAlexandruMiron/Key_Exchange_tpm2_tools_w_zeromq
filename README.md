@@ -18,7 +18,7 @@ https://github.com/terilenard/dias-logging/wiki/Setup-Virtual-TPM
 # Hardware required:
 - 2 devices on the same network 
 # Running the scripts:
-```
+```diff
 The project contains 2 python scripts, which should be runned on 2 separate devices with the requirements meeted. On one side the IP of the other device is required, on the other side the plain text of what is wanted to be encrypted, the encrypted text is then sent to the other device and decrypted.
 ```
 # Tested on:
